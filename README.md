@@ -1,51 +1,26 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
+## 🚀 Desafie-se em 2025: 7 Hábitos para um novo eu
 
-> Woooow! Look at this 👀
+Este projeto surgiu do desafio "Natural ou Fake Natty?" proveniente do Bootcamp Caixa - IA Generativa com Micorsoft Copilot, da Dio. A ideia principal é colocar em prática o conhecimento adquirido ao longo das semanas de estudo, utilizando a inteligência artificial para gerar algo novo.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+### 🎙️ Informações
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+Aproveitando a vibe de início do ano, resolvi criar um material que compartilhasse sugestões de pequenos hábitos e atitudes que podemos adotar em 2025 para ter uma vida mais feliz e saudável.
 
-### Objetivos
+Para isso: 
+* Iniciei o processo pedindo ao Gemini que resumisse os principais pontos de alguns links sobre o tema, buscando refinar os pontos finais a serem apresentados;
+* Em seguida, recorri ao Gamma para criar uma apresentação do zero, inserindo as notas que eu já tinha e incluindo o contexto geral da minha intenção - acabei usando o Google Translator para gerar alguns prompts, pois percebi que a plataforma respondia melhor ao inglês;
+* Por fim, recorri ao Copilot para criar as imagens do material.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+### 💭 Reflexão
 
-### Template
+Já trabalho com texto e não senti dificuldade para refinar a escrita do produto final. Para mim, o que realmente tomou mais tempo e exigiu mais atenção e algumas refações foi a parte das ilustrações.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Houve momentos em que eu não soube expressar o que queria e a IA acabou me retornando algo nada a ver e, também, tive casos em que a imagem apresentada continha um erro grosseiro, como mãos deformadas. 
 
-## 📒 Descrição
-Breve descrição do seu projeto
+No entanto, também reconheço que a IA foi capaz de me sugerir ideias de imagens quando eu não sabia como ilustrar a ideia contida no texto. No final, sinto que formamos uma boa equipe e estou disposta a melhorar meus prompts para imagens. 
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+### 🎁 O resultado
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
